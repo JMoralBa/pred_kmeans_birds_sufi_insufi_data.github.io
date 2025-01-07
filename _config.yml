@@ -1,0 +1,3 @@
+theme: jekyll-theme-minimal
+title: Birds' missing links
+description: Mapa interactivo que muestra los "missing links" de aves predichos  por HSBM (Kmeans best solution).
